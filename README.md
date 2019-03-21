@@ -13,7 +13,7 @@
 ## rodar o redis client, dentro do docker do redis
 `redis-cli`
 
-# #Inserindo valores no redis pelo redis-cli
+## Inserindo valores no redis pelo redis-cli
 ##inserir chave e o valor em seguida 
 `set "token" "lçsljdoçaawidiaiwhd98w8w92893"`
 
